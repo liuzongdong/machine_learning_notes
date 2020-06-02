@@ -4,8 +4,8 @@ A note contains the basic knowledge in computer science
 
 ## Overview
 
+- Operation System
 - File System (Path)
-- An introduction to machine learning projects
 
 ## Operating System
 
@@ -115,34 +115,20 @@ Hence, if `test.py` want to access the `p1.jpg` through a relative path fashion,
 
 If you want to change the current directory in a Terminal, you need use the following command and a path
 
-```null
+```bash
 cd
 ```
 
 For example, if you want to move back to the `Games` folder
 
-```null
+```bash
 cd Games/
 ```
 
 Question: How to go back to `Parent Directory` using `cd` command?
 
-## File System Conclusion
-
-Why I show you this:
+**Why I show you this:**
 
 - Because in most case, no Windows, only Linux, like Ubuntu or Debian
 - Sometimes, the location of script and the data is separated
 - Absolute path is buggy if you give your code to others
-
-## Python
-
-Just read and write more code! you will finally get familiar with this programming language
-
-Python is a high-level, dynamically typed multiparadigm programming language. Python code is often said to be almost like pseudocode. We will use `Python 3` as our backend support.
-
-In this part, if we need to learn more about python, we can learn the Python Tutorial from together, it is a very good tutorial
-
-## NumPy
-
-NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects.
